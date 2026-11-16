@@ -1,6 +1,5 @@
 # Cars24 Used Car Data Analysis (EDA)
 
-
 **Author:** Parashuram Vaddekunta  
 **GitHub:** [@parshuthebad](https://github.com/parshuthebad)
 
